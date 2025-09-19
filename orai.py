@@ -1,3 +1,4 @@
 print("órai munka")
-nev"kis pista"
+nev = "kis pista"
 a = 12
+datum = "2025.09.19"
